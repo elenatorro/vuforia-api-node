@@ -1,7 +1,8 @@
 {
-  "name": "vuforia",
-  "author": "Jonas Liljestrand <jonas.liljestrand@gmail.com>",
-  "version": "0.0.4",
+  "name": "vuforia-api-node",
+  "author": "Elena Torro <elenatorro@gmail.com>",
+  "description" : "Personal project to practice Web AR, based on Jonas Liljestrand <jonas.liljestrand@gmail.com> module 'vuforia'",
+  "version": "0.0.1",
   "dependencies": {
     "async": "~0.2.10",
     "fs": "0.0.2",
